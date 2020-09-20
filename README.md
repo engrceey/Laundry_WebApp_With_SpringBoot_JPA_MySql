@@ -13,5 +13,5 @@ Laundry web application with SpringBoot, JPA, MySql and Thymeleaf
 ### Booking Form
 ![GitHub Logo](src/main/java/com/laundry/washer/images/postform.png)
 
-### Check request status list
+### Check request status list (Admin side)
 ![GitHub Logo](src/main/java/com/laundry/washer/images/adminlist.png)
